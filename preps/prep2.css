@@ -1,0 +1,26 @@
+title {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 60px;
+    background-color: purple
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    background-color: purple;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    background-color: blue;
+}
+
+body {
+    background-color: fuchsia;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
